@@ -2,7 +2,7 @@
 ## Automated License Plat Recognition System
 ## Based on LeNet CNN
 
-The model (license_not_license.model) is generated using LeNet architecture and uses Relu activation function.
+The model (licenseplate_not_licenseplate.model) is generated using LeNet architecture and uses Relu activation function.
 
 <code>train.py</code> is used to train the model and also generates a graph indicating the result of the training process.
 
